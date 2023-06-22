@@ -1,8 +1,7 @@
-<h1 align="center">Hi , Muhammad Ahmed here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , Fahad Rehman here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h4><ul> 
-    <li>👀 I’m interested in WEB, BLOCKCHAIN and CLOUD</li>
-  <li>🌱 I’m currently learning BASIC WEB DEVELOPEMENT with BLOCKCHAIN</li>
-  <li>💞️ I’m looking to collaborate on Solidity Smart Contracts & Backend Web Projects</li>
+    <li>👀 I’m interested in WEB | JavaScript | MERN Stack</li>
+  <li>🌱 I’m currently working as a Frontend Developer using React</li>
   </ul></h4>
 
 ## 🔥 Streak Stats
